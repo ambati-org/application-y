@@ -6,7 +6,7 @@ locals {
         env     = "dev"
         owner   = "platform-team"
         repo    = "TBD"
-        product = "alpha-new"
+        product = "alpha-new-1"
 
 
 
@@ -18,7 +18,7 @@ locals {
         env     = "test"
         owner   = "qa-team"
         repo    = "TBD"
-        product = "alpha-new"
+        product = "alpha-new-1"
 
 
       }
@@ -29,8 +29,7 @@ locals {
         env     = "prod"
         owner   = "operations"
         repo    = "TBD"
-        product = "alpha-new"
-
+        product = "alpha-new-1"
 
       }
     }
