@@ -5,6 +5,8 @@ locals {
       tags = {
         env   = "dev"
         owner = "platform-team"
+        repo  = "TBD"
+
       }
     }
     test = {
@@ -12,6 +14,8 @@ locals {
       tags = {
         env   = "test"
         owner = "qa-team"
+        repo  = "TBD"
+
       }
     }
     prod = {
@@ -19,6 +23,7 @@ locals {
       tags = {
         env   = "prod"
         owner = "operations"
+        repo  = "TBD"
       }
     }
   }
