@@ -7,7 +7,6 @@ locals {
         owner   = "platform-team"
         repo    = "TBD"
         product = "alpha-new"
-        product = "alpha-new-1"
 
 
 
@@ -20,7 +19,6 @@ locals {
         owner   = "qa-team"
         repo    = "TBD"
         product = "alpha-new"
-        product = "alpha-new-1"
 
 
       }
@@ -32,7 +30,6 @@ locals {
         owner   = "operations"
         repo    = "TBD"
         product = "alpha-new"
-        product = "alpha-new-1"
 
 
       }
